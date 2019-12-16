@@ -1,5 +1,7 @@
 import tensorflow as tf
 
+model_file_dir = 'model/'
+
 v1 = tf.Variable(tf.constant(1.0, shape=[1]), name='v1')
 v2 = tf.Variable(tf.constant(2.0, shape=[1]), name='v2')
 result = tf.add(v1, v2, name='add')
