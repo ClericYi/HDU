@@ -4,7 +4,8 @@
 
 #### HDU考前的知识预习
 > **温馨提示**
->   + 查阅工具使用的是VSCode，需下载插件Markdown+Math和Markdown Preview Enhanced
+>   + 在线阅读时使用 **($$)** 包裹的是数学公式,但是Github无法显示，有查看需求需要使用VSCode
+>   + 查阅工具使用的是**VSCode**，需下载插件Markdown+Math和Markdown Preview Enhanced
 >   + 脑图等资源使用链接
 
 #### 若文档内存在错误，可以发送邮件至:ClericYi@163.com
