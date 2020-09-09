@@ -12,3 +12,9 @@
 #### 若文档内存在错误，可以发送邮件至:ClericYi@163.com
 #### 若有优秀资料共享，可以发送邮件至:m18057441398@163.com
 #### 往届试卷的需求请跳转至🔗[https://github.com/FengGuanxi/HDU-Experience]
+
+
+# 广告位
+博客推广：
+1. 专注于`Android`分享的博主：[ClericYi（现就职于字节跳动）](https://juejin.im/user/888061128614840/posts)
+2. 专注于后端分享的博主：[Decisivem（曾就职于网易）](https://blog.nowcoder.net/caopeng)
